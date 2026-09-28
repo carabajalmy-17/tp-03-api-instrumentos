@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "nombre": "Guitarra criolla",
+    "familia": "Cuerda",
+    "origen": "España",
+    "descripcion": "Instrumento de seis cuerdas utilizado en diversos estilos musicales.",
+    "disponible": true
+  },
+  {
+    "id": 2,
+    "nombre": "Bombo legüero",
+    "familia": "Percusión",
+    "origen": "Argentina",
+    "descripcion": "Instrumento tradicional utilizado principalmente en la música folclórica argentina.",
+    "disponible": true
+  },
+  {
+    "id": 3,
+    "nombre": "Flauta traversa",
+    "familia": "Viento",
+    "origen": "Europa",
+    "descripcion": "Instrumento de viento que produce sonido mediante el paso de aire por su embocadura.",
+    "disponible": false
+  },
+  {
+    "id": 4,
+    "nombre": "Violín",
+    "familia": "Cuerda",
+    "origen": "Italia",
+    "descripcion": "Instrumento de cuatro cuerdas que se ejecuta principalmente utilizando un arco.",
+    "disponible": true
+  },
+  {
+    "id": 5,
+    "nombre": "Saxofón",
+    "familia": "Viento",
+    "origen": "Bélgica",
+    "descripcion": "Instrumento de viento utilizado en géneros como jazz, música clásica y música popular.",
+    "disponible": false
+  }
+]
